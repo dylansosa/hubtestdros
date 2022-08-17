@@ -8,3 +8,14 @@ organism Dmel
 orderKey 4800
 scientificName Dmel
 defaultPos NT_033777.3:1-1000
+
+genome Dvir
+twoBitPath Dvir/Dvir.2bit
+trackDb Dvir/trackDb.txt
+groups groups.txt
+htmlPath Dvir/description.html
+description Dvir
+organism Dvir
+orderKey 4800
+scientificName Dvir
+defaultPos NW_022587564.1:1-1000
