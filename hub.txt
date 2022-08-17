@@ -1,0 +1,5 @@
+hub drosophilaHub
+shortLabel Drosphila spp hub
+longLabel Drosophila species hub
+genomesFile genomes.txt
+email dylansosa@uchicago.edu	
